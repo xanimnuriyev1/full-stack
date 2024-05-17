@@ -1,0 +1,71 @@
+.Head_top{
+    background-color: black;
+    padding: 20px 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.Head-top-left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px ;
+}
+select{
+    border: none;
+    color: white;
+    background-color: black;
+}
+.head-top-rihgt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:40px ;
+}
+.active{
+    color: red;
+}
+.router{
+   nav{
+    ul{
+        display: flex;
+        align-items: center;
+        justify-content: center; 
+        gap: 30px;
+    }
+   }
+}
+.header-down-right{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    gap: 30px;
+}
+.header-down{
+    display: flex;
+    align-items: center;
+    justify-content: space-around; 
+    padding: 25px 0;
+}
+.circle{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  padding: 15px;
+  border-radius: 50%;
+  border: 2px solid #F5F5F5;
+}
+.SignBtn{
+    padding: 15px 25px;
+    border-radius: 30px;
+    background-color: #2577FD;
+    border: 1px solid #2577FD;
+    color: white;
+}
+.LogoText{
+    color: black;
+    span{
+        color: #2677F9;
+    }
+}

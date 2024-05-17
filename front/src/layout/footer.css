@@ -1,0 +1,15 @@
+a{
+    display: flex;
+    align-items: center;
+}
+.EstoreBox{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+    padding: 100px 0;
+}
+.foot{
+    text-align: center;
+}
